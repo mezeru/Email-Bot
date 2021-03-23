@@ -3,7 +3,7 @@
 This is a bot in python which sends emails to all Email ID's Registered in an Excel File and checks wheater the email has been send or not
 
 
-* Instructions *
+*Instructions*
 
 
 - 	Turn on Less Secure Web Access from your google account
