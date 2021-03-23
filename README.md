@@ -9,9 +9,9 @@ This is a bot in python which sends emails to all Email ID's Registered in an Ex
 - 	Turn on Less Secure Web Access from your google account
 
 - 	Please install the following packages or copy the code below
-		pip install openpyxl
-		pip install xlrd
-		pip install smtplib
+		- pip install openpyxl
+		- pip install xlrd
+		- pip install smtplib
 
 -	The name of the Excel Sheet is assumed to be "Data.xlsx"
 
